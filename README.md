@@ -13,7 +13,7 @@ Code tested for :
 Then you can execute the following:
 
 ```
-cd <-path to working directory>
+cd <-path to working directory->
 pip install -r requirements.txt
 ```
 
